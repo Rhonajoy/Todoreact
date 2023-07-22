@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "formData": {
+        "title": "",
+        "description": ""
+      },
+      "id": 1
+    },
+    {
+      "formData": {
+        "title": "",
+        "description": ""
+      },
+      "id": 2
+    }
+  ]
+}

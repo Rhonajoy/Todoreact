@@ -1,0 +1,46 @@
+.container {
+  height: 300px;
+  width: 400px;
+  border-radius: 20px;
+  background-color: #203040;
+  margin-left: 40%;
+  margin-top: 10%;
+  position: relative;
+}
+.minicontainer {
+  height: 100px;
+  /* background-color: red; */
+  width: 150px;
+  border-radius: 2px solid red;
+  position: absolute;
+  top: 80px;
+  right: 120px;
+
+  height: 100px;
+}
+p {
+  color: #88abff;
+}
+.modal {
+  height: 250px;
+  width: 300px;
+  border-radius: 20px;
+  background-color: #88abff;
+}
+.modal button {
+  background-color: #88abff;
+  width: 50px;
+  height: 20px;
+  border-radius: 5px;
+ 
+}
+.modal h2 {
+  color: #88abff;
+}
+form {
+  /* height: 300px; */
+  /* width: 400px;
+  border-radius: 20px;
+  background-color: white; */
+  padding: 20px;
+}
